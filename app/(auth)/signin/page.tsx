@@ -6,7 +6,7 @@ import { Label } from "@/components/ui/label";
 import Image from "next/image";
 import { SyntheticEvent, useState } from "react";
 
-export default function SignUpPage() {
+export default function SignInPage() {
   const [isLoading, setIsLoading] = useState<boolean>(false);
 
   async function onSubmit(event: SyntheticEvent) {
