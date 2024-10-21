@@ -96,7 +96,7 @@ export default function SignUpPage() {
             <p>
               Don&apos;t have an account?{" "}
               <a
-                href="/auth/signup"
+                href="/signup"
                 className="underline underline-offset-4 hover:text-primary"
               >
                 Sign up
